@@ -9,7 +9,7 @@ shift 2
 files=()
 
 for extension in $@; do
-    files+=$(find . -name "*."$extension)
+    files+=$(find $HOME -name "*."$extension)
     files+=$'\n'
 done
 
