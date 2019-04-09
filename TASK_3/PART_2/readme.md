@@ -7,3 +7,7 @@
 ## Запуск
 1. Error while connecting socket - решил меняя впн по миллиону раз на рабочем пк(на нем стоит убунту, а на моем есть только bash command prompt для windows 10)
 2. Authentification error - решил, дав нужные разрешения почте
+## Данные
+Бот в тг: @techprogsaplinbot
+Канал в тг: https://t.me/techprog_saplin
+Почта и пароль: в файле config.ini
