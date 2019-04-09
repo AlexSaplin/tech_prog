@@ -9,5 +9,7 @@
 2. Authentification error - решил, дав нужные разрешения почте
 ## Данные
 Бот в тг: @techprogsaplinbot
+
 Канал в тг: https://t.me/techprog_saplin
+
 Почта и пароль: в файле config.ini
